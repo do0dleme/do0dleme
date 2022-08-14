@@ -5,8 +5,9 @@ Hi, I’m *doodle*!
 *I’m currently learning:* making formspecs in lua
 
 *How to reach me*
-      *Discord:* dewdle#4228
-               *or Wilderness Survival*'s server: https://dsc.gg/dew
+
+*Discord:* dewdle#4228
+           *or Wilderness Survival*'s server: https://dsc.gg/dew
  
  *work in progress*
 
