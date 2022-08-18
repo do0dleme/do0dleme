@@ -1,8 +1,8 @@
 Hi, I’m *doodle*!
 
-*I’m interested in:* making and forking mods for Minetest
+*I’m interested in:* making Minetest mods
 
-*I’m currently learning:* making formspecs in lua
+*I’m currently learning:* Lua
 
 *How to reach me*
 
