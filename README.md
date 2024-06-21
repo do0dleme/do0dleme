@@ -6,8 +6,8 @@ Hi, I’m *doodle*!
 
 *How to reach me*
 
-*Discord:* dewdle#4228
-           *or Wilderness Survival*'s server: https://dsc.gg/dew
+*Discord:* d3wdrxp.
+           *or Lucky Block Survival*'s server: https://discord.com/invite/wJqpr9n8ek
  
  *work in progress*
 
